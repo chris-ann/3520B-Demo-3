@@ -1,0 +1,76 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    font-family: arial, sans-serif;
+}
+
+/* set rules for areas */
+.content-area {
+    /* width: 80%; */
+    margin: auto;
+    padding: 0 100px;
+}
+
+#Chair-seat, #Doggo {
+    cursor: pointer;
+    transition: 0.2s;
+}
+h1 {
+  position: absolute;  
+  left: 30%;
+  font-size: 25px;
+  font-family: "Bitter", serif;
+  font-style: italic;
+}
+
+.cls-1,
+.cls-2,
+.cls-3,
+.cls-4,
+.cls-5,
+.cls-6,
+.cls-7,
+.cls-8,
+.cls-9,
+.cls-10 {
+    stroke-width: 0px;
+}
+
+.cls-2 {
+    fill: #764b00;
+}
+
+.cls-3 {
+    fill: #568b62;
+}
+
+.cls-4 {
+    fill: #df986d;
+}
+
+.cls-5 {
+    fill: #923e0f;
+}
+
+.cls-6 {
+    fill: #ff976d;
+}
+
+.cls-7 {
+    fill: #ff926d;
+}
+
+.cls-8 {
+    fill: #fff;
+}
+
+.cls-9 {
+    fill: #eabca0;
+}
+
+.cls-10 {
+    fill: #006837;
+}
